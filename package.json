@@ -1,0 +1,17 @@
+{
+  "name": "calculator-jest",
+  "version": "1.0.0",
+  "description": "",
+  "main": "calculator.js",
+  "scripts": {
+    "test": "jest --coverage"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "init": "^0.1.2"
+  },
+  "devDependencies": {
+    "jest": "^29.7.0"
+  }
+}
